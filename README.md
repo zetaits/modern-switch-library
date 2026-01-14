@@ -20,9 +20,9 @@ El listado completo está en el archivo `tools.md`, pero principalmente he usado
 ## Documentación
 He generado una página web con la documentación del componente usando GitHub Pages.
 Puedes consultarla aquí:
--> **[Ver Documentación del Componente](https://tuusuario.github.io/modern-switch-library/)**
+-> **[Ver Documentación del Componente](https://zetaits.github.io/modern-switch-library/)**
 
-## 🚀 Instalación y Prueba
+## Instalación y Prueba
 Para generar el `.jar` de la librería e instalarlo en local (Maven Local), ejecuta este comando en la terminal:
 
 ```bash
