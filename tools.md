@@ -1,0 +1,1 @@
+Herramientas usadas: IntelliJ IDEA, Java 21, Gradle (Kotlin DSL), JUnit 5, TestFX, JavaFX
